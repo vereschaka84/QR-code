@@ -33,7 +33,7 @@ body {
 	text-align: center;
 	padding: 15px;
 	background-color: hsl(0, 0%, 100%);
-	border-radius: 10px;
+	border-radius: 15px;
 }
 
 .qr-block__text {
@@ -53,5 +53,5 @@ body {
 
 .qr-block img {
 	display: block;
-	border-radius: 10px;
+	border-radius: 15px;
 }
