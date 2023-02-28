@@ -1,6 +1,6 @@
 ### Links
 
-- Live Site URL: https://vereschaka84.github.io/qr-code/
+- Live Site URL: https://vereschaka84.github.io/QR-code/
 
 ### Built with
 
